@@ -22,7 +22,7 @@
         body{
             background-repeat: repeat;
             background-attachment: fixed;
-            background-image: url("../static/xiaohuangren.jpg");
+            background-image: url("./static/xiaohuangren.jpg");
             height: 1000px;
         }
         .pagehead{
